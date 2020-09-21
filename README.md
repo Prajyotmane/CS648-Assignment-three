@@ -1,5 +1,5 @@
 # Welcome to Vecta Corp.  
-  
+
 A perfect vSolutions for your agile online business  
 
 ## About us
